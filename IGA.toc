@@ -1,0 +1,7 @@
+## Author: Tim
+## Interface: 20400
+## Title: In-Game AddOn Manager - TBC
+## Notes: Manage, search, enable, and disable AddOns without leaving the game.
+## Version: 1.1.0
+
+IGA.lua
